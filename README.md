@@ -1,6 +1,6 @@
 # Sparkify Postgres ETL
 
-This is the first project submission for the Data Engineering Nanodegree.
+This is the first project submission for the Udacity Data Engineering Nanodegree.
 
 This project consists of putting into practice the following concepts:
 - Data modeling with Postgres
