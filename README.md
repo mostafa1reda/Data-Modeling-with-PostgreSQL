@@ -64,3 +64,6 @@ A number of steps clean the data and reduce the size of the database by removing
 1. Run create_tables.py from terminal to set up the database and tables.
 2. Run etl.py from terminal to process and load data into the database.
 3. Launch test.ipynb to run validation and example queries.
+
+## Author 
+Mostafa Reda (https://www.linkedin.com/in/mostafaali96/)
