@@ -66,4 +66,4 @@ A number of steps clean the data and reduce the size of the database by removing
 3. Launch test.ipynb to run validation and example queries.
 
 ## Author 
-Mostafa Reda (https://www.linkedin.com/in/mostafaali96/)
+Mostafa Reda [linkedin](https://www.linkedin.com/in/mostafaali96/)
